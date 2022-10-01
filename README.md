@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Xavier</h1>
-<h3 align="center">A Fullstack Developer in eternal development! :)</h3>
+<h3 align="center">Rising self-taught developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnascx&label=Profile%20views&color=0e75b6&style=flat" alt="hnascx" /> </p>
 
