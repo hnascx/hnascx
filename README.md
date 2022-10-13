@@ -27,7 +27,7 @@
 
 <br/>
 
-<p><img align="center" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=hnascx&show_icons=true&locale=en" alt="hnascx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hnascx&show_icons=true&locale=en" alt="hnascx" /></p>
 
 
 
