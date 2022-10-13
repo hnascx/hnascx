@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Xavier</h1>
-<h3 align="center">Hi! I'm Henrique, Fullstack Web Developer
+<h3 align="center">Fullstack Web Developer
 
 I have experience in the development of landing pages, e-commerces and webapps using MERN Stack (MongoDB, Express.js, React.js and Node.js) as main technologies.</h3>
 
