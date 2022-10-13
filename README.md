@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henrique Xavier</h1>
 <h3 align="center">Fullstack Web Developer</h3>
-<h2 align="center">I have experience in the development of landing pages, e-commerces and webapps using MERN Stack (MongoDB, Express.js, React.js and Node.js) as main technologies.</h2>
+<h4 align="center">I have experience in the development of landing pages, e-commerces and webapps using MERN Stack (MongoDB, Express.js, React.js and Node.js) as main technologies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnascx&label=Profile%20views&color=0e75b6&style=flat" alt="hnascx" /> </p>
 
