@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Henrique Xavier</h1>
 <h2 align="center">Fullstack Web Developer</h2>
 <h3 align="center">Developing webapps every single day</h3>
-<br/>
 
-- 🌱 I’m currently learning **React/Next.js, Adonis.js**
+- 🌱 I’m currently learning **React/Next.js and Adonis.js**
 
 - 👨‍💻 All of my projects are available at [hnascxprojects.tech](hnascxprojects.tech)
 
