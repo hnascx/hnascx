@@ -2,7 +2,7 @@
 <h2 align="center">Fullstack Web Developer</h2>
 <h3 align="center">Developing webapps every single day, follow me!</h3>
 <br/>
-- 🌱 I’m currently learning **React/Next.js and Adonis.js**
+- 🌱 I’m currently learning **React/Next.js, Adonis.js**
 
 - 👨‍💻 All of my projects are available at [hnascxprojects.tech](hnascxprojects.tech)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bit.ly/hnascx**
 
-- ⚡ Fun fact **💪 all day**
+- ⚡ Fun fact: **💪 all day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
