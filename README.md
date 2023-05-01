@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React/Next.js**
 
-- 👨‍💻My portfolio <a href="https://hnascx.dev" target="_blank">here</a>
+- 👨‍💻 My portfolio <a href="https://hnascx.dev" target="_blank">here</a>
 
 - 💬 Ask me about **HTML, CSS and Javascript**
 
