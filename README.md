@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React/Next.js**
 
-- 👨‍💻My Portfolio <a href="https://hnascx.dev" target="_blank">here</a>
+- 👨‍💻My portfolio <a href="https://hnascx.dev" target="_blank">here</a>
 
 - 💬 Ask me about **HTML, CSS and Javascript**
 
@@ -21,6 +21,7 @@
 <h3 align="left">Languages and Tools</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px" />
           
           
           
