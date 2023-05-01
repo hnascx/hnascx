@@ -2,15 +2,15 @@
 <h2 align="center">Fullstack Web Developer</h2>
 <h3 align="center">Developing webapps every single day</h3>
 
-- 🌱 I’m currently learning **React/Next.js and Nest.js**
+- 🌱 I’m currently learning **React/Next.js**
 
-- 👨‍💻 All of my projects are available at [hnascxprojects.tech](hnascxprojects.tech)
+- 👨‍💻My Portfolio <a href="https://hnascx.dev">here</a>
 
 - 💬 Ask me about **HTML, CSS and Javascript**
 
 - 📫 How to reach me **bit.ly/hnascx**
 
-- ⚡ Fun fact: **💪 all day**
+- ⚡ Fun fact: **💪workout all day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
