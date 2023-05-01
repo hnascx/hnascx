@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **HTML, CSS and Javascript**
 
-- 📫 Reach me <a href="bit.ly/hnascx" target="_blank">here</a> 
-
 - ⚡ Fun fact: **💪 workout all day**
 
 <h3 align="left">Connect with me</h3>
