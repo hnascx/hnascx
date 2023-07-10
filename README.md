@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Xavier</h1>
-<h2 align="center">Fullstack Web Developer</h2>
+<h2 align="center">Front-end Developer</h2>
 <h3 align="center">Developing webapps every single day</h3>
 
 - 🌱 I’m currently learning **React/Next.js**
