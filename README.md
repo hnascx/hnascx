@@ -20,7 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" />
-<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="40px" height="40px" />
+<img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" height="40px" />
 <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40px" height="40px" />  
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40px" height="40px" />
