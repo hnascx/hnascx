@@ -24,8 +24,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" height="40px" />
 <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40px" height="40px" />  
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40px" height="40px" />
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_logo_icon_146416.png" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" height="40px" />
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_logo_icon_146416.png" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" height="40px" />                          
 </p>
           
