@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Henrique Xavier</h1>
 <h2 align="center">Front-end Developer</h2>
-<h3 align="center">Developing webapps every single day</h3>
 
 - 🌱 I’m currently learning **React/Next.js**
 
 - 👨‍💻 My portfolio <a href="https://hnascx.dev" target="_blank">here</a>
 
-- 💬 Ask me about **HTML, CSS and Javascript**
-
-- ⚡ Fun fact: **💪 workout all day**
+- **💪 workout all day**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -21,15 +18,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg](https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png)" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" height="40px" />
+<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40px" height="40px" />  
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40px" height="40px" />
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_logo_icon_146416.png" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" height="40px" />                          
 </p>
