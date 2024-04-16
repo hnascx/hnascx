@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio <a href="https://hnascx.dev" target="_blank">here</a>
 
-- **💪 workout all day**
+- **💪 all day**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
