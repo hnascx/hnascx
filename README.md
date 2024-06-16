@@ -1,28 +1,46 @@
-<h1 align="center">Hi 👋, I'm Henrique Xavier</h1>
-<h2 align="center">Front-end Developer</h2>
+# Hi, I'm Henrique Xavier👋
 
-- 🌱 I’m currently learning **React/Next.js**
+### About me
 
-- 👨‍💻 My portfolio <a href="https://hnascx.dev" target="_blank">here</a>
+💻 I'm Front-end Developer
 
-- **💪 all day**
+🚀 <a href="https://www.rocketseat.com.br">@Rocketseat</a> student
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/henrique-xavier-565aa114b" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/henrique-xavier-565aa114b" height="30" width="40" /></a>
-<a href="https://instagram.com/hnascx" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/hnascx" height="30" width="40" /></a>
-</p>
+👩‍💻 I currently work as Front-end Developer at <a href="https://www.linkedin.com/company/loungerie-intimates/">@Loungerie</a> 
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" />
-<img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="40px" height="40px" />
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40px" height="40px" />                       
-</p>
+✒️ I like in my free time: gym 💪 and play volleyball 🏐
+
+📚 Reading: Bible ✝️
+
+👨‍💻 My portfolio <a href="https://hnascx.dev">here</a>
+
+**Technologies and Tools**
+![React]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg")
+![Next.js]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg")
+![Node.js]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg")
+![Typescript]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg")
+![Javascript]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg")
+![HTML5]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg")
+![CSS3]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg")
+![SASS]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg")
+![TailwindCSS]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg")
+![Cypress]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css")
+![Figma]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg")
+
+**🤝 Connect with me**
+<div>
+<a href="https://github.com/hnascx](https://www.linkedin.com/in/henrique-xavier-565aa114b">
+<img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+</div>
           
+**⚡ GitHub Stats**
+<div>
+<a href="https://github.com/hnascx">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnascx&layout=compact&langs_count=7&theme=mindark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hnascx&show_icons=true&theme=mindark&include_all_commits=true&count_private=true"/>
+</div>
+
+
           
           
