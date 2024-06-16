@@ -1,4 +1,4 @@
-:<h2>Hi, I'm Henrique Xavier👋</h2>:
+<h2>:Hi, I'm Henrique Xavier👋:</h2>
 
 ### About me
 
