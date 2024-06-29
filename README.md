@@ -2,7 +2,7 @@
 
 ### About me
 
-💻 I'm Front-end Developer
+💻 Front-end Developer
 
 🚀 <a href="https://www.rocketseat.com.br">@Rocketseat</a> student
 
