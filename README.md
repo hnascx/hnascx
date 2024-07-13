@@ -26,12 +26,7 @@
   <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px" /></a>
   <a href="https://www.cypress.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50px" height="50px" /></a>
   <a href="https://www.figma.com/ui-design-tool/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50px" height="50px" /></a></div>
-<h3>Connect with me</h3>
-<div>
-<a href="https://github.com/hnascx](https://www.linkedin.com/in/henrique-xavier-565aa114b">
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
-</div>
+  
 <h3>Github Stats</h3>
 <div>
 <a href="https://github.com/hnascx">
