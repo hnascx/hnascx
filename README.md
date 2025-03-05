@@ -2,7 +2,7 @@
 
 ### About me
 
-💻 Front-end Developer
+💻 Fullstack Developer
 
 🚀 <a href="https://www.rocketseat.com.br">@Rocketseat</a> student
 
