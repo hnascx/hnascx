@@ -1,14 +1,8 @@
-<h2 align=center>Hi, I'm Henrique Xavier👋</h2>
+<h2 align=center>Hi, I'm Henrique Xavier👋 | Fullstack Developer</h2>
 
 ### About me
 
-💻 Fullstack Developer
-
-🚀 <a href="https://www.rocketseat.com.br">@Rocketseat</a> student
-
-👩‍💻 I currently work as Front-end Developer at <a href="https://www.linkedin.com/company/loungerie-intimates/">@Loungerie</a> 
-
-✒️ I like in my free time: gym 💪 and play volleyball 🏐
+✒️ Hobbies: gym 💪 and volleyball 🏐
 
 📚 Reading: Bible ✝️
 
