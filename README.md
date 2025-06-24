@@ -1,4 +1,4 @@
-<h2 align=center>Hi, I'm Henrique Xavier👋 | Fullstack Developer</h2>
+<h2 align=center>Hi, I'm Henrique Xavier 👋 | Fullstack Developer</h2>
 
 ### About me
 
