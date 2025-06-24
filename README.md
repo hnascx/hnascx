@@ -5,8 +5,6 @@
 ✒️ Hobbies: gym 💪 and volleyball 🏐
 
 📚 Reading: Bible ✝️
-
-👨‍💻 My portfolio <a href="https://hnascx.dev">here</a>
 <br>
 <h3>Technologies and Tools</h3>
   <div><a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px" height="50px" /></a>
