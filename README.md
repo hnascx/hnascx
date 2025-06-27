@@ -2,6 +2,8 @@
 
 ### About me
 
+💻 I have experience in developing web applications using JavaScript and its main frameworks as core technologies.
+
 ✒️ Hobbies: gym 💪 and volleyball 🏐
 
 📚 Reading: Bible ✝️
