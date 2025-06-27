@@ -1,5 +1,3 @@
-<h2 align=center>Hi, I'm Henrique Xavier 👋 | Fullstack Developer</h2>
-
 ### About me
 
 💻 I have experience in developing web applications using JavaScript and its main frameworks as core technologies.
