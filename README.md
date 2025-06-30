@@ -4,9 +4,6 @@ With over 3 years of experience, I specialize in developing scalable solutions u
 
 My expertise includes platforms like VTEX IO and Nuvemshop, as well as tools such as Docker, PostgreSQL, and Jest. I turn technological challenges into high-impact results.
 
-✒️ Hobbies: gym 💪 and volleyball 🏐
-
-📚 Reading: Bible ✝️
 <br>
 <h3>Technologies and Tools</h3>
   <div><a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px" height="50px" /></a>
