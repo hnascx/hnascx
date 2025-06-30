@@ -12,11 +12,13 @@ My expertise includes platforms like VTEX IO and Nuvemshop, as well as tools suc
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px" /></a>
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" height="50px" /></a>
   <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50px" height="50px" /></a>
-  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="50px" height="50px" /></a>
+  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/nestjs/assets/master/nest-logo.svg" width="50px" height="50px" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" height="50px" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" /></a>
   <a href="https://vitest.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" width="50px" height="50px" /></a>
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" height="50px" /></a>
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px" /></a>
   <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" height="50px" /></a>
+  <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px" height="50px" /></a>
+  <a href="https://sass-lang.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" /></a>
 </div>
