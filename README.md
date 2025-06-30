@@ -12,7 +12,7 @@ My expertise includes platforms like VTEX IO and Nuvemshop, as well as tools suc
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px" /></a>
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" height="50px" /></a>
   <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50px" height="50px" /></a>
-  <a href="https://nestjs.com/"><img src="[https://raw.githubusercontent.com/nestjs/assets/master/nest-logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/960px-NestJS.svg.png?20221211225055)" width="50px" height="50px" /></a>
+  <a href="https://nestjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/960px-NestJS.svg" width="50px" height="50px" /></a>
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" height="50px" /></a>
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px" /></a>
   <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" height="50px" /></a>
