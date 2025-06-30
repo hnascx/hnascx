@@ -1,6 +1,8 @@
 ### About me
 
-💻 I have experience in developing web applications using JavaScript and its main frameworks as core technologies.
+With over 3 years of experience, I specialize in developing scalable solutions using React.js, Next.js, Node.js, and Nest.js for e-commerce platforms and API integrations. An expert in DDD, TDD, and agile methodologies, I deliver business-aligned projects with a focus on performance and usability.
+
+My expertise includes platforms like VTEX IO and Nuvemshop, as well as tools such as Docker, PostgreSQL, and Jest. I turn technological challenges into high-impact results.
 
 ✒️ Hobbies: gym 💪 and volleyball 🏐
 
@@ -13,12 +15,6 @@
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px" height="50px" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" height="50px" /></a>
   
-<h3>Github Stats</h3>
-<div>
-<a href="https://github.com/hnascx">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnascx&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hnascx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
 
 
           
