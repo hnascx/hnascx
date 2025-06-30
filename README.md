@@ -8,6 +8,7 @@ My expertise includes platforms like VTEX IO and Nuvemshop, as well as tools suc
   <div><a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px" height="50px" /></a>
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50px" height="50px" /></a>
   <a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px" /></a>
+  <a href="https://nodejs.org/en"><img src="https://images.seeklogo.com/logo-png/27/1/node-js-logo-png_seeklogo-273749.png" width="50px" height="50px" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px" height="50px" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" height="50px" /></a>
   
