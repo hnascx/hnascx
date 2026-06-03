@@ -1,6 +1,6 @@
 ### About me
 
-With over 3 years of experience, I specialize in developing scalable solutions using React.js, Next.js, Node.js, and Nest.js for e-commerce platforms and API integrations. I deliver business-aligned projects with a focus on performance and usability.
+With over 4 years of experience, I specialize in developing scalable solutions using React.js, Next.js, Node.js, and Nest.js for e-commerce platforms and API integrations. I deliver business-aligned projects with a focus on performance and usability.
 
 My expertise includes platforms like VTEX and Shopify, as well as tools such as Docker, PostgreSQL, and Vitest. I turn technological challenges into high-impact results.
 
